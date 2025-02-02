@@ -319,7 +319,8 @@ h6 a {
   font-family: "K2D", sans-serif;
 }
 .navbar .navbar-brand img {
-  height: 26px;
+  width: 65px;
+  height: auto;
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
   border-radius: 50px;
@@ -1017,7 +1018,6 @@ h6 a {
 }
 .cta .cta-txt .img-radius {
   width: 100%;
-  border-radius: 200px;
 }
 @media only screen and (max-width: 767px) {
   .cta .cta-txt .img-radius {
