@@ -327,7 +327,8 @@ h6 a {
 }
 @media only screen and (max-width: 991px) {
   .navbar .navbar-brand img {
-    height: 22px;
+    width: 100%;
+    height: auto;
   }
 }
 @media only screen and (max-width: 767px) {
@@ -1021,7 +1022,7 @@ h6 a {
 }
 @media only screen and (max-width: 767px) {
   .cta .cta-txt .img-radius {
-    border-radius: 160px;
+    
   }
 }
 .cta .cta-txt h2 {
